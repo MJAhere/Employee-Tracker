@@ -1,4 +1,4 @@
-USE cms;
+USE emp_tracker_db;
 
 INSERT into department (name) VALUES ("Sales");
 INSERT into department (name) VALUES ("IT");

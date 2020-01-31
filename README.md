@@ -8,6 +8,6 @@ Download or Clone and open in your terminal. From there direct yourself to the f
 
 ## Demo
 
-![Emloyee Tracker Demo](./images/Gifs/EmpTackIntro.gif)
+![Emloyee Tracker Demo](./images/EmpTackIntro.gif)
 
-![Employee Tracker Demo](./images/Gifs/EmpTackEnd.gif)
+![Employee Tracker Demo](./images/EmpTackEnd.gif)
